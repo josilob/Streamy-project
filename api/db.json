@@ -1,26 +1,10 @@
 {
   "streams": [
     {
-      "title": "My new stream",
-      "description": "its so fun",
-      "id": 1
-    },
-    {
-      "title": "Another stream",
-      "description": "here's another stream",
-      "id": 2
-    },
-    {
       "title": "Stream with ID",
       "description": "I've just made it",
       "userId": "108958378031399331263",
       "id": 4
-    },
-    {
-      "title": "is it working",
-      "description": "now",
-      "userId": "108958378031399331263",
-      "id": 7
     },
     {
       "title": "attempt",
@@ -33,11 +17,6 @@
       "description": "now?",
       "userId": "108958378031399331263",
       "id": 9
-    },
-    {
-      "title": "Streaming new comp reuseeeeeee",
-      "description": "lets take a look",
-      "id": 14
     }
   ]
 }
